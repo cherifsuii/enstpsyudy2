@@ -9,7 +9,6 @@ export default function DMSPage() {
           <h2 className="text-2xl font-bold text-orange-500 mb-2">1st Year</h2>
           <p className="text-gray-600">Resources for the first year of the DMS department.</p>
         </Link>
-        {/* The user also provided a file for 2nd year DMS, so I'll add a card for it */}
         <div className="block p-8 bg-gray-100 rounded-lg shadow-lg">
           <h2 className="text-2xl font-bold text-gray-500 mb-2">2nd Year</h2>
           <p className="text-gray-500">Coming Soon</p>

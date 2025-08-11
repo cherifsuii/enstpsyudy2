@@ -17,9 +17,6 @@ const Footer = () => {
           <Link href="https://t.me/Tascherif" target="_blank" rel="noopener noreferrer" className="hover:text-orange-400">
             Telegram
           </Link>
-          <Link href="https://t.me/Tascherif" target="_blank" rel="noopener noreferrer" className="hover:text-orange-400 font-bold">
-            Report an Issue
-          </Link>
         </div>
         <p className="text-sm text-gray-400">
           "I ask you to pray for me if you find this helpful." - Cherif Tas
