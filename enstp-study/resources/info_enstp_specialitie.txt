@@ -1,0 +1,76 @@
+🟧 SPÉCIALITÉS / DÉPARTEMENTS
+À l'ENSTP, il existe deux spécialités :
+-‌ROUTES ET OUVRAGES (attachée au département matériaux et structures #DMS).
+-‌INFRASTRUCTURES DE BASE (attachée au département infrastructures de base #DIB)
+
+🟧 DIPLÔMES
+Quelque soit votre spécialité, vous allez avoir les mêmes diplômes (master + ingénieur d'état en travaux publics), et malgré que les deux spécialités sont mentionnées, chacun peut travailler dans la spécialité de l'autre.
+
+🟧 OPTIONS
+À partir de deuxième année, les étudiants doivent choisir l'une des deux options qui existent dans chaque spécialité (1 ou 2 modules optionnels) :
+-‌DMS : Bâtiments ou Tunnels
+-‌DIB : Voie ferrée et pont rail ou travaux maritimes et base aérienne
+
+🟧 S1
+Vous allez étudier presque les mêmes modules : Résistance des matériaux RDM, Mécanique des sols MDS, Mécanique des milieux continus MMC, Mécanique des fluides MDF, Matériaux de construction MDC, Géologie, Topographie, Matlab, ENG, Conférences, les TP.
+-DMS : +Procédés généraux de construction PGC
+-DIB : +Analyse numérique
+
+🟧 S2
+modules communs : RDM2, Structure, MDS2, MDS3, MMC2, Hydraulique, MDC2, Route1, ENG, Conférences, les TP, les Visites)
+-‌DMS : +Béton armé BA1 +Méthode des éléments finis MEF appliquée.
+-‌DIB : +Mécanique des roches MDR +Géologie2 +Matlab2
+
+🟧 S3
+modules communs : MDS4, Dynamique des structures DDST, Charpente métallique CM, MEF1, Mécanique des structures MDST,  Dessin assisté par ordinateur DAO, Route2, esquisse route1, ponts1, Drainage et Assainissement urbain, les TP.
+-‌DMS : +Béton précontraint BP1 +BA2
+option 1) +Bâtiments1
+option 2) +Tunnels1
+-‌DIB : +Géotechnique routière GTR +BA1
+option 1) +Voies ferrées +ponts rails
+option 2) +travaux maritimes +bases aériennes
+
+🟧 S4
+Modules communs : MDS5, DDST2, DDSol1, CM2, MEF2, MDST2, Ponts2, esq route2, esq pont1, Visites, les TP.
+-‌DMS : +BP2 +GTR1
+option 1) +Batiments2
+option 2) +Tunnels2
+-‌DIB : +BP1 +BA2 +GTR2
+option 1) +Voies ferrées2 +ponts rails2
+option 2) +travaux maritimes2 +bases aériennes2
+
+🟧 S5
+modules communs : DDSol2, Organisation de chantier ODC, calcul d'ouvrages, pathologie des Ouvrages d'Art, Droit des Travaux Publics, Développement durable et aménagement de territoire, esq pont2, entrepreneuriat ou management.
+-‌DMS : +Analyse expérimentale +calcul économique des projets +optimisation en BA +MMC approfondie +matériaux innovants.
+option 1) +esq Bâtiment +thermique bâtiment
+option 2) +esq Tunnel +méthodes de réalisation des ouvrages souterrains.
+-‌DIB : +Economie de transport +Rhéologie des matériaux +ouvrages souterrains  +Pathologie des chaussées +BP2 +PGC.
+option 1) +esq ponts rails +esq voie ferrée
+option 2) +esq TM +esq Bases aériennes
+
+🟧 S6
+Mémoire PFE : le choix de thème et de lieu de stage est libre, à condition qu'il soit approuvé par l'école et l'organisme d'accueil.
+
+🟧 MASTER S5
+4 modules de S5 seront considérés comme modules Master, qui seront les composantes de votre relevé de notes Master pour le semestre S5 :
+-‌DMS : Ana-exp, Optimisation, MMC app, Mat Innov.
+-‌DIB : DTP, Rhéologie, Path-ch, ODC
+
+🟧 MASTER S6
+La moyenne de Master pour ce semestre est la même que celle de PFE.
+
+🟧 STAGES
+L'ENSTP contrairement aux universités, vous offre un stage pour chaque année :
+-‌Stage d'imprégnation (25 jours) à l'été 2023
+-‌Stage d'insertion (25 jours) à l'été 2024
+-‌Stage de fin d'études (3 mois) pendant le S6
+
+🟧 REMARQUES
+-‌Chaque abréviation est explicité en amont.
+-‌Il faut bien remarquer que certains modules sont étudiés dans les deux spécialités, mais dans des semestres différents.
+-‌Ces informations sont collectées en se basant sur cette dernière année universitaire, donc des futurs changements peuvent se présenter.
+-‌J'espère que j'ai réussis à présenter le contenu académique de cycle ingénieur avec ses deux spécialités: Routes et ouvrages (DMS) et infrastructures de base (DIB) et avec toute objectivité.
+-‌Cette publication est ouverte pour vos rectifications et vos propositions.
+-‌Pour plus d'infos, veuillez visiter les deux sujets #DMS et #DIB dans ce groupe.
+
+Par : CHAMI Saïd
